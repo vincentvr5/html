@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio</title>
+    <style>
+        ul{
+            display: flex;
+            list-style-type: none;
+            gap: 200px;
+            font-size: x-large;
+            background-color:greenyellow;
+        }
+        #Emma{
+            height: 200px;
+            width: auto;
+            border: 7px double;
+        }
+        
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>skill</li>
+                <li>Education</li>
+                <li>About me</li>
+                </ul>
+                 </nav>
+    </header>
+    <section id="#Emma">
+    <h3>hi there</h3>
+    <p>iam vr7</p>
+    <img src="./image.png" alt="">
+    </section>
+    <style></style>
+    </style>
+    <table border="100"
+    <caption>skill</caption>
+    <tr>
+      
+      <th>front-end</th>
+      <th>front-end</th>
+      <th>back-end</th>
+      <th>back-end</th>
+      
+  
+      </tr>
+      <tr>
+          
+          <td>html</td>
+          <td>css</td>
+          <td>java</td>
+          <td>expresis</td>
+          <a href=""></a>
+
+          
+  
+</body>
+</html>
